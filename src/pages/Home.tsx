@@ -17,7 +17,7 @@ const Home: React.FC = (): JSX.Element => {
     <Container className="vh-100">
       <Row>
         <Col>
-          <h1>HD DVD Store</h1>
+          <h1>The HD DVD Store</h1>
           <p className="fs-3 text-center mt-4">
             Welcome to the HD DVD Store! An homage to the short-lived disc
             format that I have nostalgia for.
