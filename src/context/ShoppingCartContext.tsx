@@ -2,9 +2,9 @@ import { createContext, useContext, ReactNode, useState } from "react";
 import { ShoppingCart } from "../components/ShoppingCart";
 import { useLocalStorage } from "../hooks/useLocalStorage";
 
-type ShoppingCartProviderProps = {
+interface ShoppingCartProviderProps {
   children: ReactNode;
-};
+}
 
 type CartItem = {
   id: number;
