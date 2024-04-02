@@ -6,10 +6,10 @@ interface ShoppingCartProviderProps {
   children: ReactNode;
 }
 
-type CartItem = {
+interface CartItem {
   id: number;
   quantity: number;
-};
+}
 
 type ShoppingCartContext = {
   openCart: () => void;
