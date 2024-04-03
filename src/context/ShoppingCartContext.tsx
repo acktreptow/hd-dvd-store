@@ -24,7 +24,7 @@ interface ShoppingCartContext {
 
 const ShoppingCartContext = createContext({} as ShoppingCartContext);
 
-export function useShoppingCart() {
+export function useShoppingCart(): ShoppingCartContext {
   return useContext(ShoppingCartContext);
 }
 
