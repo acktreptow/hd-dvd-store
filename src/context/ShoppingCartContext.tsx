@@ -11,7 +11,7 @@ interface CartItem {
   quantity: number;
 }
 
-type ShoppingCartContext = {
+interface ShoppingCartContext {
   openCart: () => void;
   closeCart: () => void;
   getItemQuantity: (id: number) => number;
@@ -20,7 +20,7 @@ type ShoppingCartContext = {
   removeFromCart: (id: number) => void;
   cartQuantity: number;
   cartItems: CartItem[];
-};
+}
 
 const ShoppingCartContext = createContext({} as ShoppingCartContext);
 
