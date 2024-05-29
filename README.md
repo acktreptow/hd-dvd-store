@@ -23,11 +23,11 @@ The history section provides an extensive description about the 2-year history o
 
 ### Store Section
 
-The store section allows users to browse 24 available HD DVDs. Users can add movies to their cart by clicking the "Add To Cart" button. The cart will then update and be viewable in a side-loading window, which provides an overview of the items selected for purchase.
+The store section allows users to browse the available HD DVDs imported through a JSON file. Users can add movies to their cart by clicking the "Add To Cart" button. The cart will then update and be viewable in a side-loading window, which provides an overview of the items selected for purchase.
 
 ### Cart Functionality
 
-The cart functionality is designed to offer a smooth shopping experience. When items are added to the cart, the user can click the basket in the header to show to the side-loading window. This displays the current contents of the cart with options to adjust quantities or remove items. It also shows the price of the individual HD DVDs as well as the cumulative total.
+The cart functionality is designed to offer a smooth shopping experience. When items are added to the cart, the user can click the basket icon to bring up the side-loading window. This displays the current contents of the cart with options to adjust quantities or remove items. It also shows the price of the individual HD DVDs as well as the cumulative total.
 
 The primary goal of this project was to improve both my TypeScript and React skills, which has been achieved with how all these sections work with each other.
 
@@ -35,10 +35,10 @@ The primary goal of this project was to improve both my TypeScript and React ski
 
 To run the project locally, follow these steps:
 
-1. Clone the repository (for Git): `git clone https://github.com/acktreptow/hd-dvd-store.git`
-2. Navigate to the project directory: `cd hd-dvd-store`
-3. Type `npm install` into the command line to ensure all dependencies are installed
-4. Type `npm run dev` into the command line to view it in your preferred browser
+1. Clone the repository (for Git): `git clone https://github.com/acktreptow/hd-dvd-store.git`.
+2. Navigate to the project directory: `cd hd-dvd-store`.
+3. Type `npm install` into the command line to ensure all dependencies are installed.
+4. Type `npm run dev` into the command line to view it in your preferred browser.
 
 ## Contributing
 
