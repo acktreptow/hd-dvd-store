@@ -2,6 +2,10 @@
 
 Welcome to the HD DVD Store! This project is an e-commerce website for selling HD DVDs, designed with a clean and responsive interface using Bootstrap for the CSS framework.
 
+I decided on HD DVDs as the focus of an e-commerce site after re-watching Children of Men, which reignited my nostalgia for the format as I bought many HD DVDs after it crashed in 2008 and prices plummeted. I have a lot of great memories as a young teenager watching recent blockbusters like Batman Begins and Transformers in the best HD quality possible at the time!
+
+To browse the store, click [here](https://hd-dvd-store.vercel.app/)!
+
 ## Technologies Used
 
 - React
@@ -56,8 +60,8 @@ If you’d like to contribute, have questions, or want to provide feedback, plea
 
 ## Future Enhancements
 
-I don't plan on any significant updates to the HD DVD store unless someone contributes with a great new feature.
+I don't plan on any significant updates to the HD DVD store unless someone contributes with a great new feature. For example, integrating a payment gateway, adding user reviews, or enhancing the search functionality.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License which is available [here](https://opensource.org/license/MIT).
